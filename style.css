@@ -849,6 +849,9 @@ display: flex;
     .entry .bottom .tag .dvd{
         background-image: url(images/icons/dvd.png);
     }
+    .entry .bottom .location{
+        background-image: url(images/icons/location.png);
+    }
 
 @media (max-width:450px){
     .overlay{
